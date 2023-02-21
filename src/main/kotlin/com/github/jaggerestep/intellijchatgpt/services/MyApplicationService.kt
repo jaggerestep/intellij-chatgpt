@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jaggerestep.intellijchatgpt.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jaggerestep.intellijchatgpt.MyBundle
 
 class MyApplicationService {
 
